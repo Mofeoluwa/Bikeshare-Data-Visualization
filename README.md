@@ -1,11 +1,10 @@
 # (Dataset Exploration Title)
-## by (your name here)
+## by Mofeoluwa Jide-Jegede
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
-
+> The dataset used is the Ford GoBike Trip data for 2019-02 provided by the Udacity Data Analyst Nanodegree platform. It has 183412 enteries with 16 variables.
 
 ## Summary of Findings
 
