@@ -1,5 +1,5 @@
-# (Ford GoBike Trip Data Visualization)
-## by (Mofeoluwa Jide-Jegede)
+# Ford GoBike Trip Data Visualization
+## by Mofeoluwa Jide-Jegede
 
 
 ## Ford GoBike Trip Data
