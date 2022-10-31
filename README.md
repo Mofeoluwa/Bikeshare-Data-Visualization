@@ -27,7 +27,7 @@
 
 ## Data Exploration
 
->I investigate distributions of individual variables, checking for unusual points and outliers. I take a deeper look to clean things up and prepare to look at relationships between variables.
+>I investigated distributions of individual variables, checking for unusual points and outliers. I take a deeper look to clean things up and prepare to look at relationships between variables.
 
 > The Questions for this analysis are designed to understand the best times to display advertisements to target specific people. What kind of reach would advertisements have on ford go bike users based on the patterns in the data?
 
