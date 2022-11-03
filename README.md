@@ -1,4 +1,4 @@
-# Ford GoBike Trip Data Visualization
+# Ford GoBike Data Visualization
 ## by Mofeoluwa Jide-Jegede
 
 
@@ -29,7 +29,8 @@
 
 >I investigated distributions of individual variables, checking for unusual points and outliers. I take a deeper look to clean things up and prepare to look at relationships between variables.
 
-> The Questions for this analysis are designed to understand the best times to display advertisements to target specific people. What kind of reach would advertisements have on ford go bike users based on the patterns in the data?
+> he analysis focused on understanding the best times to display advertisements to target specific people. What kind of reach do advertisements have on ford go bike users based on the patterns in the data?
+
 
 >Some of the questions that would help understand this include:
 1. What is the gender distribution across bike stations?
